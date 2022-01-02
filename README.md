@@ -13,4 +13,4 @@ https://troat9824.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Taylor Vaughn
 
-# Run Buddy Inc.
+# Run Buddy, Inc.
