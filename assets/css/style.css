@@ -40,7 +40,7 @@ header nav ul li {
     display: inline;
 }
 header nav ul li a {
-    margin: 0 30px;
+    padding: 10px 15px;
     font-weight: lighter;
     font-size: 1.55vw;
 }
@@ -55,6 +55,7 @@ section {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    align-items: flex-start;
 }
 /* Hero Style End*/
 .hero-form {
@@ -71,7 +72,7 @@ section {
     margin: 3.5%;
     color: #fff;
     font-size: 18px;
-    line-height: 1.3;
+    line-height: 1.2;
 }
 .hero-cta h2 {
     font-style: italic;
@@ -107,7 +108,7 @@ section {
     font-size: 16px;
 }
 .section-title {
-    font-size: 55px;
+    font-size: 48px;
     color: #024e76;
     border-bottom: 3px solid;
     padding-bottom: 20px;
@@ -286,4 +287,18 @@ footer a {
 }
 .flex-row {
     display: flex;
+}
+/* Media query */
+@media screen and (max-width: 980px) {
+
+    }
+}
+@media screen and (max-width: 768px) {
+
+    }
+
+}
+@media screen and (max-width: 575px) {
+
+    }
 }
